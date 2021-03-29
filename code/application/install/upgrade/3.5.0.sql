@@ -1,1 +1,0 @@
-ALTER TABLE `catfish_nav` ADD `icons` VARCHAR( 500 ) NOT NULL DEFAULT '' AFTER `icon` ;
